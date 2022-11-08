@@ -1,10 +1,9 @@
-/*
-  TODO: 2. Select the elements with the following IDs
-    * modal
-    * open-modal-btn
-    * close-modal-btn
-    * BONUS: overlay
-*/
+//   TODO: 2. Select the elements with the following IDs
+//     * modal
+//     * open-modal-btn
+//     * close-modal-btn
+//     * BONUS: overlay
+
 const modal = document.querySelector("#modal")
 const openModalButton = document.querySelector("#open-modal-btn")
 const closeModalButton = document.querySelector("#close-modal-btn")
